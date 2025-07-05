@@ -6,7 +6,7 @@ It’s designed to be sleek, responsive, and interactive using modern web techno
 
 ## ✨ Live Demo
 
-🔗 [Click here to view the website](https://yourusername.github.io/your-repo-name)
+🔗 [Click here to view the website](https://salehalomair.github.io/)
 
 ## 📸 Preview
 
