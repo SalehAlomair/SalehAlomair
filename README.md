@@ -1,44 +1,32 @@
-<h1 align="center">Hi there 👋, I'm Saleh Alomair</h1>
-<h3 align="center">Computer Science Student | Aspiring Data Scientist | Web Developer</h3>
+<h1 align="center">👋 I'm Saleh Alomair</h1>
+<h3 align="center">Computer Science Student | Data Enthusiast | Web Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!;I+love+building+clean+and+modern+apps.;Always+learning+new+things!" alt="Typing SVG" />
+  <a href="https://salehalomair.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=github" />
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" />
+  </a>
 </p>
 
 ---
 
-### 🧠 About Me:
-- 🎓 I'm a Computer Science student passionate about Data Science, Web Development, and AI.
-- 💻 I love building elegant UIs and efficient backend systems.
-- 🚀 Currently learning: Machine Learning & TailwindCSS.
-- 📚 Always working on personal projects and open to collaboration!
+### 🧠 About Me
+
+I'm a passionate Computer Science student exploring the worlds of data and software development.  
+My focus is on building meaningful projects with clean design, reliable logic, and a strong data backbone.
+
+- 🔭 Currently building: **My personal portfolio** & a **Student Grading System** with DB integration.
+- 🌱 Learning: Machine Learning · TailwindCSS · Git Workflow
+- ⚡ Interests: Data Science · Web Design · Backend Architecture · Open Source
+- 📍 Based in: Saudi Arabia 🇸🇦
 
 ---
 
-### 🛠️ Technologies & Tools
+### 💻 Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,tailwind,react,mysql,git,vscode" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SalehAlomair&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalehAlomair&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 📫 Contact Me
-- 📩 Email: `youremail@example.com`
-- 🖥️ Portfolio: [salehalomair.github.io](https://salehalomair.github.io)
-- 💼 LinkedIn: [YourLinkedIn](https://linkedin.com/in/yourusername)
-
----
-
-> "Strive not to be a success, but rather to be of value." – Albert Einstein
-
+```bash
+Languages:   Java · Python · HTML · CSS · JavaScript · SQL
+Frameworks:  TailwindCSS · React (learning) · Flask (exploring)
+Tools:       Git · GitHub · VS Code · MySQL · Figma
