@@ -14,10 +14,9 @@
 
 ### 🚀 About Me
 - 🎓 CS Student passionate about clean code, creative UIs & smart systems
-- 🌐 Building my personal website with modern design & smooth interactions
-- 🛠 Currently working on a full-stack **Student Grading System** (Java + MySQL)
-- 📊 Interested in data science, backend design, and beautiful frontends
-- 🌱 Always learning: TailwindCSS, React, ML, and Git best practices
+- 📊 Interested in data science, backend & frontend design
+- 🌱 Always learning new things
+- 🎯 Aspiring to become one of the top data scientists in the field
 
 ---
 
