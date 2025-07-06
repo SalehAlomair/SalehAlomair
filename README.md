@@ -1,30 +1,20 @@
-# 🧑‍💻 Saleh | Personal Portfolio
+# 👋 Hi, I'm Saleh
 
-Welcome to my personal portfolio website!  
-This site showcases my projects, skills, and a little bit about who I am.  
-It’s designed to be sleek, responsive, and interactive using modern web technologies.
+🎓 I'm a Computer Science student from Saudi Arabia.  
+📊 Currently diving into the world of **Data Science** and **Machine Learning**.  
+💻 I enjoy building real-world projects using **Java**, **HTML/CSS**, and modern web technologies.  
+📁 Check out my projects — from student systems to interactive personal websites.
 
-## ✨ Live Demo
+## 🚀 Skills & Interests
+- Programming: Java, Python, JavaScript
+- Web: HTML, CSS, TailwindCSS
+- Tools: Git & GitHub, VS Code, Jupyter
+- Fields of Interest: Data Science, Web Development, AI
 
-🔗 [Click here to view the website](https://salehalomair.github.io/)
+## 🌱 Currently Learning
+- Machine Learning with Python (Scikit-Learn, Pandas, NumPy)
+- Frontend Web Development with modern design trends
 
-## 📸 Preview
-
-![Website Screenshot](./screenshot.png)
-
-## 🛠️ Built With
-
-- 💻 HTML5 & CSS3  
-- ⚡ JavaScript  
-- 🎇 [particles.js](https://vincentgarreau.com/particles.js/) – For animated background  
-- 📝 [Typed.js](https://github.com/mattboldt/typed.js/) – For typewriter effect  
-- 💡 Responsive design  
-- 🎨 Custom button hover effects, smooth scrolling, and minimalist layout
-
-## 🧭 Features
-
-- Welcome page with animated particles background  
-- Typewriter intro text  
-- Smooth scroll navigation bar  
-- Sections: About Me, Projects, Contact  
-- Interactive buttons and modern UI
+## 📫 How to reach me
+Feel free to reach out via the contact section on my portfolio website:  
+🌐 [salehalomair.github.io/SalehAlomair](https://salehalomair.github.io/SalehAlomair/)
