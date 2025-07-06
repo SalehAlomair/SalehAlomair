@@ -17,4 +17,4 @@
 
 ## 📫 How to reach me
 Feel free to reach out via the contact section on my portfolio website:  
-🌐 [salehalomair.github.io/SalehAlomair](https://salehalomair.github.io/SalehAlomair/)
+🌐 [salehalomair.github.io/SalehAlomair](https://salehalomair.github.io/MyWebsite/)
