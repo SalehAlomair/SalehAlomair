@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Student | Web Dev & Data Enthusiast</h3>
 
 <p align="center">
-  <a href="https://salehalomair.github.io" target="_blank">
+  <a href="https://salehalomair.github.io/MyWebsite/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:salehomair1424@gmail.com">
