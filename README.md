@@ -1,32 +1,37 @@
-<h1 align="center">👋 I'm Saleh Alomair</h1>
-<h3 align="center">Computer Science Student | Data Enthusiast | Web Developer</h3>
+<h1 align="center">Hey, I'm Saleh 👨‍💻</h1>
+<h3 align="center">Computer Science Student | Web Dev & Data Enthusiast</h3>
 
 <p align="center">
-  <a href="https://salehalomair.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=github" />
+  <a href="https://salehalomair.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🧠 About Me
-
-I'm a passionate Computer Science student exploring the worlds of data and software development.  
-My focus is on building meaningful projects with clean design, reliable logic, and a strong data backbone.
-
-- 🔭 Currently building: **My personal portfolio** & a **Student Grading System** with DB integration.
-- 🌱 Learning: Machine Learning · TailwindCSS · Git Workflow
-- ⚡ Interests: Data Science · Web Design · Backend Architecture · Open Source
-- 📍 Based in: Saudi Arabia 🇸🇦
+### 🚀 About Me
+- 🎓 CS Student passionate about clean code, creative UIs & smart systems
+- 🌐 Building my personal website with modern design & smooth interactions
+- 🛠 Currently working on a full-stack **Student Grading System** (Java + MySQL)
+- 📊 Interested in data science, backend design, and beautiful frontends
+- 🌱 Always learning: TailwindCSS, React, ML, and Git best practices
 
 ---
 
-### 💻 Tech Stack
+### 📈 GitHub Stats
 
-```bash
-Languages:   Java · Python · HTML · CSS · JavaScript · SQL
-Frameworks:  TailwindCSS · React (learning) · Flask (exploring)
-Tools:       Git · GitHub · VS Code · MySQL · Figma
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalehAlomair&theme=tokyonight" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=SalehAlomair&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalehAlomair&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🛠️ Tech Stack
+```b
