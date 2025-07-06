@@ -36,5 +36,4 @@
 ### 🛠️ Tech Stack
 ```bash
 Languages:   Java · Python · HTML · CSS · JavaScript · SQL
-Frameworks:  TailwindCSS · React (soon) · Swing · Flask (basics)
-Tools:       Git · GitHub · MySQL · VS Code · Figma
+Tools:       Git · GitHub · MySQL · VS Code · Jupyter Notebook
