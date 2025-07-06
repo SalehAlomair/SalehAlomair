@@ -5,7 +5,7 @@
   <a href="https://salehalomair.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:salehomair1424@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
