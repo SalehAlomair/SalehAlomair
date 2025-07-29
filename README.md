@@ -13,7 +13,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=CS+Student+%7C+Data+Science+Enthusiast;Building+AI-Powered+Solutions;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 
 ### 🎯 About Me
 
