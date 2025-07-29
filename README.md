@@ -13,7 +13,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ### 🎯 About Me
 
@@ -45,8 +45,8 @@ class DataScientist:
   </picture>
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SalehAlomair&theme=tokyonight&background=0D1117&border=21262D&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=7D8590&dates=7D8590&hide_border=true&border_radius=10">
-    <img height="200" src="https://streak-stats.demolab.com?user=SalehAlomair&theme=tokyonight&background=0D1117&border=21262D&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=7D8590&dates=7D8590&hide_border=true&border_radius=10" alt="GitHub Streak">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=SalehAlomair&theme=dark&background=0d1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=f85149&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e">
+    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=SalehAlomair&theme=dark&background=0d1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=f85149&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak">
   </picture>
 </div>
 
@@ -61,7 +61,7 @@ class DataScientist:
 <summary>📈 <b>Detailed Analytics</b></summary>
 <br>
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SalehAlomair&custom_title=Saleh's%20Contribution%20Timeline&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF7B72&area=true&area_color=21262D&title_color=58A6FF&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SalehAlomair&theme=github_dark" alt="Activity Graph"/>
 </div>
 </details>
 
@@ -125,13 +125,13 @@ graph LR
 ### 🏗️ Featured Projects
   
 <div align="center">
-  <a href="https://github.com/SalehAlomair">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SalehAlomair&repo=data-science-portfolio&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_color=21262D&hide_border=true&border_radius=10&show_owner=true" />
-  </a>
-  <a href="https://github.com/SalehAlomair">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SalehAlomair&repo=machine-learning-projects&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_color=21262D&hide_border=true&border_radius=10&show_owner=true" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=torvalds&repo=linux&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=vscode&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" />
 </div>
+
+<p align="center">
+  <i>🚀 Replace with your own repositories once you create some awesome projects!</i>
+</p>
 
 </div>
 
