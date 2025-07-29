@@ -36,14 +36,19 @@ class DataScientist:
 
 ---
 
-📊 GitHub Analytics
+## 📊 GitHub Analytics
+
 <div align="center">
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SalehAlomair&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalehAlomair&layout=compact&theme=tokyonight&include_all_commits=true&hide_border=true" alt="Top Languages"/>
+
 </div>
+
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalehAlomair&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
+
 <details>
 <summary>📈 <b>Detailed Analytics</b></summary>
 <br>
@@ -51,6 +56,7 @@ class DataScientist:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SalehAlomair&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffb86c&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 </details>
+
 ---
 
 ## 🛠️ Tech Arsenal
@@ -87,7 +93,7 @@ class DataScientist:
 ## 🎨 Creative Showcase
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Data%20Science%20Journey&fontSize=30&fontAlignY=35&desc=Transforming%20Data%20into%20Insights&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6&height=120&section=header&text=Data%20Science%20Journey&fontSize=35&fontColor=ffffff&fontAlignY=35&desc=Transforming%20Data%20into%20Insights&descSize=16&descAlignY=60&descAlign=50&animation=fadeIn" />
 </div>
 
 <div align="center">
@@ -95,18 +101,35 @@ class DataScientist:
 ### 💡 Current Learning Path
   
 ```mermaid
-graph LR
+flowchart LR
     A[🐍 Python] --> B[📊 Data Analysis]
     B --> C[🤖 Machine Learning]
     C --> D[🧠 Deep Learning]
     D --> E[🚀 AI Solutions]
     
-    style A fill:#3776AB
-    style B fill:#FF6B6B
-    style C fill:#4ECDC4
-    style D fill:#45B7D1
-    style E fill:#96CEB4
+    style A fill:#3776AB,stroke:#2563EB,color:#ffffff
+    style B fill:#FF6B6B,stroke:#DC2626,color:#ffffff
+    style C fill:#4ECDC4,stroke:#059669,color:#ffffff
+    style D fill:#45B7D1,stroke:#0284C7,color:#ffffff
+    style E fill:#96CEB4,stroke:#059669,color:#ffffff
 ```
+
+</div>
+
+---
+
+### 🏗️ Featured Projects
+  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=torvalds&repo=linux&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=vscode&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" />
+</div>
+
+<p align="center">
+  <i>🚀 Replace with your own repositories once you create some awesome projects!</i>
+</p>
+
+</div>
 
 ---
 
@@ -114,6 +137,9 @@ graph LR
 
 ### 💭 Dev Quote of the Day
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
+
+### 📈 Contribution Graph
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=SalehAlomair&theme=tokyonight&hide_border=true" />
 
 ---
 
