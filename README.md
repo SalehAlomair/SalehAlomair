@@ -38,56 +38,19 @@ class DataScientist:
 
 📊 GitHub Analytics
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&section=header" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SalehAlomair&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalehAlomair&layout=compact&theme=tokyonight&include_all_commits=true&hide_border=true" alt="Top Languages"/>
 </div>
-<table align="center">
-<tr>
-<td width="50%">
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SalehAlomair&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=21262D&icon_color=58A6FF&title_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true&hide_border=true&border_radius=15&card_width=400" alt="GitHub Stats">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SalehAlomair&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
-</td>
-<td width="50%">
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalehAlomair&theme=dark&background=0d1117&border=21262D&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakNum=58a6ff&sideNums=58a6ff&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=8b949e&hide_border=true&border_radius=15&card_width=400" alt="GitHub Streak">
-</div>
-</td>
-</tr>
-</table>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=1&section=header" />
-</div>
-<table align="center">
-<tr>
-<td width="33%">
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalehAlomair&layout=compact&theme=tokyonight&bg_color=0D1117&border_color=21262D&title_color=58A6FF&text_color=C9D1D9&langs_count=6&hide_border=true&border_radius=15&card_width=280" alt="Top Languages">
-</div>
-</td>
-<td width="67%">
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SalehAlomair&theme=github_dark&border_radius=15" alt="Repos per Language">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SalehAlomair&theme=github_dark&border_radius=15" alt="Most Commit Language">
-</div>
-</td>
-</tr>
-</table>
 <details>
-<summary>
-  <img src="https://img.shields.io/badge/📈_Detailed_Analytics-Click_to_Expand-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
-</summary>
+<summary>📈 <b>Detailed Analytics</b></summary>
 <br>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SalehAlomair&theme=github_dark&border_radius=15" alt="Detailed Analytics"/>
-</div>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SalehAlomair&theme=github_dark&utc_offset=3&border_radius=15" alt="Productive Time">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SalehAlomair&theme=github_dark&border_radius=15" alt="Stats Summary">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SalehAlomair&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffb86c&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 </details>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&section=footer" />
-</div>
 ---
 
 ## 🛠️ Tech Arsenal
