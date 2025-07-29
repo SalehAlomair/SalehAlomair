@@ -49,6 +49,14 @@ class DataScientist:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalehAlomair&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
+<details>
+<summary>📈 <b>Detailed Analytics</b></summary>
+<br>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SalehAlomair&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffb86c&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
+</details>
+
 ---
 
 ## 🛠️ Tech Arsenal
@@ -82,33 +90,31 @@ class DataScientist:
 
 ---
 
-## 🔧 My Data Science Journey
+## 🎨 Creative Showcase
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0x70a5fd,0x9d4edd&height=100&section=header&text=Learning%20&%20Building&fontSize=40&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6&height=120&section=header&text=Data%20Science%20Journey&fontSize=35&fontColor=ffffff&fontAlignY=35&desc=Transforming%20Data%20into%20Insights&descSize=16&descAlignY=60&descAlign=50&animation=fadeIn" />
 </div>
 
-**Where I am right now:** CS student who fell in love with data science after my first Python class. Currently diving deep into machine learning algorithms and trying to understand how Netflix knows exactly what I want to watch 🎬
-
-### What I'm working on
-
+<div align="center">
+  
+### 💡 Current Learning Path
+  
 ```mermaid
-graph LR
-    A[📚 Studying CS Fundamentals] --> B[🐍 Getting good with Python]
-    B --> C[📊 Learning data analysis]  
-    C --> D[🤖 Building ML models]
-    D --> E[🧠 Exploring deep learning]
+flowchart LR
+    A[🐍 Python] --> B[📊 Data Analysis]
+    B --> C[🤖 Machine Learning]
+    C --> D[🧠 Deep Learning]
+    D --> E[🚀 AI Solutions]
     
-    style A fill:#1a1b27,stroke:#58a6ff,color:#c9d1d9
-    style B fill:#1a1b27,stroke:#f7768e,color:#c9d1d9  
-    style C fill:#1a1b27,stroke:#9ece6a,color:#c9d1d9
-    style D fill:#1a1b27,stroke:#e0af68,color:#c9d1d9
-    style E fill:#1a1b27,stroke:#bb9af7,color:#c9d1d9
+    style A fill:#3776AB,stroke:#2563EB,color:#ffffff
+    style B fill:#FF6B6B,stroke:#DC2626,color:#ffffff
+    style C fill:#4ECDC4,stroke:#059669,color:#ffffff
+    style D fill:#45B7D1,stroke:#0284C7,color:#ffffff
+    style E fill:#96CEB4,stroke:#059669,color:#ffffff
 ```
 
-**Currently learning:** TensorFlow (it's harder than I thought), data visualization with matplotlib, and trying to make sense of statistical concepts that seemed easier in theory 📈
-
-**Next up:** Planning to build a project that predicts something useful - maybe stock prices or weather, still deciding. Also want to get into neural networks properly.
+</div>
 
 ---
 
