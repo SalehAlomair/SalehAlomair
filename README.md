@@ -13,9 +13,9 @@
 
 ---
 
-### 🎯 About Me
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+### 🎯 About Me
 
 ```python
 class DataScientist:
@@ -39,17 +39,31 @@ class DataScientist:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SalehAlomair&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SalehAlomair&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SalehAlomair&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=21262D&icon_color=58A6FF&title_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true&hide_border=true&border_radius=10">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=SalehAlomair&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=21262D&icon_color=58A6FF&title_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" alt="GitHub Stats">
+  </picture>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=SalehAlomair&theme=tokyonight&background=0D1117&border=21262D&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=7D8590&dates=7D8590&hide_border=true&border_radius=10">
+    <img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=SalehAlomair&theme=tokyonight&background=0D1117&border=21262D&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=7D8590&dates=7D8590&hide_border=true&border_radius=10" alt="GitHub Streak">
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SalehAlomair&theme=tokyonight&hide_border=true&fire=58A6FF&ring=58A6FF&currStreakLabel=58A6FF" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SalehAlomair&layout=donut-vertical&theme=tokyonight&bg_color=0D1117&border_color=21262D&title_color=58A6FF&text_color=C9D1D9&langs_count=8&hide_border=true&border_radius=10">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalehAlomair&layout=donut-vertical&theme=tokyonight&bg_color=0D1117&border_color=21262D&title_color=58A6FF&text_color=C9D1D9&langs_count=8&hide_border=true&border_radius=10" alt="Top Languages">
+  </picture>
 </div>
 
+<details>
+<summary>📈 <b>Detailed Analytics</b></summary>
+<br>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SalehAlomair&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=f7768e&area=true&area_color=bb9af7" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SalehAlomair&custom_title=Saleh's%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF7B72&area=true&area_color=58A6FF&title_color=58A6FF&hide_border=true&border_radius=10" alt="Activity Graph"/>
 </div>
+</details>
 
 ---
 
@@ -84,9 +98,34 @@ class DataScientist:
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎨 Creative Showcase
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SalehAlomair&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Data%20Science%20Journey&fontSize=30&fontAlignY=35&desc=Transforming%20Data%20into%20Insights&descAlignY=55&descAlign=50" />
+</div>
+
+<div align="center">
+  
+### 💡 Current Learning Path
+  
+```mermaid
+graph LR
+    A[🐍 Python] --> B[📊 Data Analysis]
+    B --> C[🤖 Machine Learning]
+    C --> D[🧠 Deep Learning]
+    D --> E[🚀 AI Solutions]
+    
+    style A fill:#3776AB
+    style B fill:#FF6B6B
+    style C fill:#4ECDC4
+    style D fill:#45B7D1
+    style E fill:#96CEB4
+```
+
+### 🏗️ Projects Architecture
+  
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SalehAlomair&repo=your-awesome-project&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_color=21262D&hide_border=true&border_radius=10" />
+
 </div>
 
 ---
