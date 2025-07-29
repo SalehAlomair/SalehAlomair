@@ -124,6 +124,8 @@ flowchart LR
 ### 💭 Dev Quote of the Day
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
 
+
+
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SalehAlomair&color=58A6FF&style=for-the-badge)
