@@ -13,7 +13,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### 🎯 About Me
 
@@ -48,7 +48,7 @@ class DataScientist:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SalehAlomair&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SalehAlomair&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=f7768e&area=true&area_color=bb9af7" />
 </div>
 
 ---
@@ -93,11 +93,11 @@ class DataScientist:
 
 <div align="center">
 
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### 💭 Dev Quote of the Day
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
 
-### 🐍 Contribution Snake
-![Snake animation](https://github.com/SalehAlomair/SalehAlomair/blob/output/github-contribution-grid-snake.svg)
+### 📈 Contribution Graph
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=SalehAlomair&theme=tokyonight&hide_border=true" />
 
 ---
 
