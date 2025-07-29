@@ -102,10 +102,10 @@ class DataScientist:
   
 ```mermaid
 flowchart LR
-    A[🐍 Python] --> B[📊 Data Analysis]
-    B --> C[🤖 Machine Learning]
-    C --> D[🧠 Deep Learning]
-    D --> E[🚀 AI Solutions]
+    A[Python] --> B[Data Analysis]
+    B --> C[Machine Learning]
+    C --> D[Deep Learning]
+    D --> E[AI Solutions]
     
     style A fill:#3776AB,stroke:#2563EB,color:#ffffff
     style B fill:#FF6B6B,stroke:#DC2626,color:#ffffff
@@ -118,28 +118,11 @@ flowchart LR
 
 ---
 
-### 🏗️ Featured Projects
-  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=torvalds&repo=linux&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=vscode&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" />
-</div>
-
-<p align="center">
-  <i>🚀 Replace with your own repositories once you create some awesome projects!</i>
-</p>
-
-</div>
-
----
 
 <div align="center">
 
 ### 💭 Dev Quote of the Day
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
-
-### 📈 Contribution Graph
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=SalehAlomair&theme=tokyonight&hide_border=true" />
 
 ---
 
