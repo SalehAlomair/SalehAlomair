@@ -13,8 +13,7 @@
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=CS+Student+%7C+Data+Science+Enthusiast;Building+AI-Powered+Solutions;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 ### 🎯 About Me
 
 ```python
