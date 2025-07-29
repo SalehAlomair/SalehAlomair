@@ -13,17 +13,10 @@
 ---
 
 ### 🚀 About Me
-- 🎓 CS student who enjoys building clean UIs and smart backends  
-- 📊 Learning data science, fullstack dev, and voice-based AI  
-- ⚡ Always experimenting, always learning  
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,tailwind,git,github,mysql,vscode,jupyter" />
-</p>
+- 🎓 CS Student passionate about clean code, creative UIs & smart systems
+- 📊 Interested in data science, backend & frontend design
+- 🌱 Always learning new things
+- 🎯 Aspiring to become one of the top data scientists in the field
 
 ---
 
@@ -36,3 +29,10 @@
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalehAlomair&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+### 🛠️ Tech Stack
+```bash
+Languages:   Java · Python · HTML · CSS · JavaScript · SQL
+Tools:       Git · GitHub · MySQL · VS Code · Jupyter Notebook edit on this
