@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hey, I'm Saleh
+# Hey, I'm Saleh
 
-### 🚀 Computer Science Student | Data Scientist in the Making
+### Computer Science Student | Data Scientist in the Making
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=CS+Student+%7C+Data+Science+Enthusiast;Building+AI-Powered+Solutions;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 
