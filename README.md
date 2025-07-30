@@ -129,6 +129,6 @@ flowchart LR
 ![Profile Views](https://komarev.com/ghpvc/?username=SalehAlomair&color=58A6FF&style=for-the-badge)
 [![GitHub followers](https://img.shields.io/github/followers/SalehAlomair?logo=GitHub&style=for-the-badge)](https://github.com/SalehAlomair)
 
-**"Data is the new oil, and I'm here to refine it! ⚡"**
+**"Data is the new oil, and I'm here to refine it! "**
 
 </div>
