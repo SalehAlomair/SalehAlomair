@@ -23,7 +23,7 @@ class DataScientist:
         self.name = "Saleh Alomair"
         self.role = "CS Student & Future Data Scientist"
         self.language_spoken = ["ar_SA", "en_US"]
-        self.passions = ["Machine Learning", "Web Development", "Clean Code"]
+        self.passions = ["Machine Learning", "AI Engineering", "Clean Code"]
         
     def current_focus(self):
         return ["Deep Learning", "Data Visualization", "Backend Systems"]
