@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=CS+Student+%7C+Data+Science+Enthusiast;Building+AI-Powered+Solutions;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://salehalomair.github.io/MyWebsite/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)] (https://salehalomair.github.io/Portfolio/)
 [![Email](https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salehomair1424@gmail.com)
 
 </div>
