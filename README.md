@@ -98,24 +98,6 @@ class DataScientist:
 
 <div align="center">
   
-### 💡 Current Learning Path
-  
-```mermaid
-flowchart LR
-    A[Python] --> B[Data Analysis]
-    B --> C[Machine Learning]
-    C --> D[Deep Learning]
-    D --> E[AI Solutions]
-    
-    style A fill:#3776AB,stroke:#2563EB,color:#ffffff
-    style B fill:#FF6B6B,stroke:#DC2626,color:#ffffff
-    style C fill:#4ECDC4,stroke:#059669,color:#ffffff
-    style D fill:#45B7D1,stroke:#0284C7,color:#ffffff
-    style E fill:#96CEB4,stroke:#059669,color:#ffffff
-```
-
-</div>
-
 ---
 
 
