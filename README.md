@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hey, I'm Saleh
+# Hey, I'm Saleh 👋
 
-### Computer Science Student | Data Scientist in the Making
+### AI Engineer | Building Production-Grade ML & LLM Systems
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=CS+Student+%7C+Data+Science+Enthusiast;Building+AI-Powered+Solutions;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+RAG+%26+Agentic+Systems;CS+Graduate+%40+Qassim+University;Turning+Research+into+Deployed+Products" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://salehalomair.github.io/Portfolio/)
 [![Email](https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salehomair1424@gmail.com)
@@ -18,21 +18,32 @@
 ### 🎯 About Me
 
 ```python
-class DataScientist:
+class AIEngineer:
     def __init__(self):
         self.name = "Saleh Alomair"
-        self.role = "CS Student & Future Data Scientist"
+        self.role = "AI Engineer"
+        self.education = "B.Sc. Computer Science, Qassim University (2026)"
         self.language_spoken = ["ar_SA", "en_US"]
-        self.passions = ["Machine Learning", "AI Engineering", "Clean Code"]
-        
-    def current_focus(self):
-        return ["Deep Learning", "Data Visualization", "Backend Systems"]
-        
-    def future_goals(self):
-        return "Becoming a top-tier data scientist 📊🚀"
+        self.focus = ["RAG & Agentic Systems", "Computer Vision", "Applied Deep Learning"]
+
+    def currently(self):
+        return "Building deployed LLM/RAG systems and applying to AI Engineer roles in Saudi Arabia"
+
+    def target_orgs(self):
+        return ["SDAIA", "NEOM", "Aramco Digital", "Mozn"]
 ```
 
 <br clear="right"/>
+
+---
+
+## 🚀 Featured Projects
+
+- **EvidenceOps Agent** — Retrieval-augmented agent built with LlamaIndex + AWS Bedrock
+- **Riyadh Metro RAG Assistant** — Arabic-aware RAG system for public transit Q&A
+- **Aircraft Surface Damage Detection** — VGG16 + Salesforce BLIP pipeline (graduation project)
+- **Satellite Land Surface Temperature Classifier** — CNN on Sentinel-2/MODIS imagery, 75%+ test accuracy
+- **Arabic Voice Assistant & Driver Fatigue Detection** — built during AI Engineer internship at Smart Methods
 
 ---
 
@@ -63,54 +74,40 @@ class DataScientist:
 
 <div align="center">
 
-### 💻 Programming Languages
+### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🤖 Data Science & AI
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+### 🤖 AI / ML / LLM
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge)
 
-### 🛠️ Tools & Environment
-![Miniconda](https://img.shields.io/badge/Miniconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+### 🛠️ Tools & Infra
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
 ---
 
-## 🎨 Creative Showcase
+## 📜 Certifications
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6&height=120&section=header&text=Data%20Science%20Journey&fontSize=35&fontColor=ffffff&fontAlignY=35&desc=Transforming%20Data%20into%20Insights&descSize=16&descAlignY=60&descAlign=50&animation=fadeIn" />
-</div>
-
-<div align="center">
-  
----
-
-
-<div align="center">
-
-### 💭 Dev Quote of the Day
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+- AWS Certified AI Practitioner (AIF-C01)
+- IBM Deep Learning with Keras
+- IBM Machine Learning with Python
 
 ---
+
+<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SalehAlomair&color=58A6FF&style=for-the-badge)
 [![GitHub followers](https://img.shields.io/github/followers/SalehAlomair?logo=GitHub&style=for-the-badge)](https://github.com/SalehAlomair)
-
-**"Data is the new oil, and I'm here to refine it! "**
 
 </div>
