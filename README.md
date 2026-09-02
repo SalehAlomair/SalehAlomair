@@ -4,6 +4,8 @@
 
 ### AI Engineer · LLM · RAG & Agentic Systems · Computer Vision
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+RAG+and+agentic+systems;Arabic+NLP+%7C+Computer+Vision;Open+to+AI+Engineer+roles+in+Saudi+Arabia" alt="Typing SVG"/></a>
+
 <p>
 <a href="https://salehalomair.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/></a>
 <a href="mailto:salehomair1424@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -36,7 +38,7 @@ I build retrieval-augmented and agentic systems on AWS Bedrock, and applied comp
 | **Aircraft Damage Detection** | Two-stage inspection pipeline: VGG16 classification + BLIP captioning for defect description | TensorFlow, VGG16, BLIP |
 | **Land Surface Temperature CNN** | Sentinel-2/MODIS tile classification (Cold/Moderate/Hot) — 4 architectures compared, 75.2% acc / 74.5% macro-F1 | TensorFlow, PostgreSQL, GeoAI |
 | **Prompt Classification Benchmark** | TF-IDF baselines vs. Claude Haiku across zero-shot, few-shot, and CoT prompting | AWS Bedrock, scikit-learn |
-| **Aircraft Damage Detection (YOLO)** | Custom 3-class YOLOv8m object detection pipeline with annotation workflow | YOLOv8, PyTorch |
+| **YOLOv8 Detection Pipeline** | Custom 3-class object detection with full annotation and training workflow | YOLOv8, PyTorch |
 
 ---
 
@@ -55,12 +57,12 @@ I build retrieval-augmented and agentic systems on AWS Bedrock, and applied comp
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 **LLM & Agents**
 
-![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -87,29 +89,14 @@ Built an Arabic voice assistant and a driver fatigue detection system.
 
 ## 📜 Certifications
 
-![AWS](https://img.shields.io/badge/AWS_Certified_AI_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_Certified_AI_Practitioner-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![IBM](https://img.shields.io/badge/IBM_Deep_Learning_with_Keras-052FAD?style=flat-square&logo=ibm&logoColor=white)
 ![IBM](https://img.shields.io/badge/IBM_Machine_Learning_with_Python-052FAD?style=flat-square&logo=ibm&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SalehAlomair&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalehAlomair&layout=compact&theme=tokyonight&include_all_commits=true&hide_border=true" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SalehAlomair&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffb86c&area=true&hide_border=true" alt="Activity Graph"/>
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=SalehAlomair&color=58A6FF&style=for-the-badge)
+<img src="https://streak-stats.demolab.com?user=SalehAlomair&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
